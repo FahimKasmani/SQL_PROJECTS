@@ -1,1 +1,0 @@
-Select * From job_postings_fact
