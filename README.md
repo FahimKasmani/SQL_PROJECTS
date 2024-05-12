@@ -2,8 +2,8 @@
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
 
 🔍 SQL queries? Check them out here:[Project_Queries](/Project_Queries/) 
-# Bakground
-Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
+# Background
+Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining other's work to find optimal jobs.
 
 The questions I wanted to answer through my SQL queries were:
 What are the top-paying data analyst jobs?
@@ -23,7 +23,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
 
 ### 1. Top Paying Data Analyst Jobs
-To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
+To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high-paying opportunities in the field.
 ```  SQL 
 SELECT
     job_id,
@@ -83,7 +83,7 @@ ORDER BY
     salary_year_avg DESC
 ```
 
-Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
+Here's the breakdown of the most demanded skills for the top 10 highest-paying data analyst jobs in 2023:
 
 - **SQL** is leading with a bold count of 8.
 - **Python** follows closely with a bold count of 7.
